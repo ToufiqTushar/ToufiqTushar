@@ -22,10 +22,6 @@
 
 ---
 
-
-
----
-
 ### 🧪 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
@@ -44,6 +40,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ToufiqTushar&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToufiqTushar&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
