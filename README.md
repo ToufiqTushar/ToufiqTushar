@@ -53,15 +53,16 @@
 <h3>🤝 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/toufiq-zahan-tushar/)">
+  <a href="https://www.linkedin.com/in/toufiq-zahan-tushar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://facebook.com/[YOUR-LINK](https://www.facebook.com/toufiqzahantushar)">
+  <a href="https://www.facebook.com/toufiqzahantushar">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:toufiqtushar99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
