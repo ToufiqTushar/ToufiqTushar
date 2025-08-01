@@ -3,22 +3,20 @@
 </p>
 
 <p align="center">
-  🎓 <b>Student at Green University of Bangladesh</b><br />
+  🎓 <b>CSE Student at Green University of Bangladesh</b><br />
   💻 <b>Aspiring Software Engineer</b><br />
   🚀 <b>Tech Enthusiast</b><br />
   📚 <b>Always learning new things</b>
 </p>
 
-
-
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 CSE Student at Green University of Bangladesh
-- 🔍 Currently exploring diverse fields within Computer Science.
-- 🌐 Web Master and Newsletter editor at IEEE Computer Soociety-GUB Chapter. 
+- 🎓 CSE Undergraduate Student at Green University of Bangladesh
+- 🔍 Currently exploring diverse fields within Computer Science
+- 🌐 Web Master and Newsletter editor at IEEE Computer Soociety-GUB Chapter
 - 💼 Information Secretary at BASIS Students’ Forum – GUB Chapter   
-- 📚 Passionate about new technology and innovation.  
+- 📚 Passionate about new technology and innovation
 
 ---
 
@@ -55,16 +53,15 @@
 <h3>🤝 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/toufiq-zahan-tushar/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://facebook.com/YOUR-LINK">
+  <a href="https://facebook.com/[YOUR-LINK](https://www.facebook.com/toufiqzahantushar)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:toufiqtushar99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
