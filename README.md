@@ -43,10 +43,13 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToufiqTushar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToufiqTushar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToufiqTushar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToufiqTushar&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToufiqTushar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
