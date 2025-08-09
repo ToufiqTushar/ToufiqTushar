@@ -43,15 +43,16 @@
 
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToufiqTushar&show_icons=true&theme=github-dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ToufiqTushar&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToufiqTushar&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center" style="padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background-color: #0d1117;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ToufiqTushar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+<img src="https://streak-stats.demolab.com?user=ToufiqTushar&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToufiqTushar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
 
 
 
