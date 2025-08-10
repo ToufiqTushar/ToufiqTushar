@@ -17,7 +17,6 @@
 - 🌐 Web Master and Newsletter editor at IEEE Computer Soociety-GUB Chapter
 - 💼 Information Secretary at BASIS Students’ Forum – GUB Chapter   
 - 📚 Passionate about new technology and innovation
-- 📚 Passionate in learning and growing
 
 ---
 
