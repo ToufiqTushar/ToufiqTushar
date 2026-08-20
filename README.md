@@ -14,8 +14,7 @@
 ### 🧑‍💻 About Me
 - 🎓 CSE Undergraduate Student at Green University of Bangladesh
 - 🔍 Currently exploring diverse fields within Computer Science
-- 🌐 Web Master and Newsletter editor at IEEE Computer Soociety-GUB Chapter
-- 💼 Information Secretary at BASIS Students’ Forum – GUB Chapter   
+- 🌐 Secretary at IEEE Student Branch GUB
 - 📚 Passionate about new technology and innovation
 
 ---
