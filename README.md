@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 <b>CSE Student at Green University of Bangladesh</b><br />
-  💻 <b>Aspiring Software Engineer</b><br />
+  💻 <b>Aspiring AI/ML Engineer</b><br />
   🚀 <b>Tech Enthusiast</b><br />
   📚 <b>Always learning new things</b>
 </p>
