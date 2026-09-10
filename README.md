@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 CSE Undergraduate Student at Green University of Bangladesh
-- 🔍 Currently exploring diverse fields within Computer Science
+- 🔍 Currently exploring the field of AI/ML
 - 🌐 Secretary at IEEE Student Branch GUB
 - 📚 Passionate about new technology and innovation
 
